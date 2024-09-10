@@ -1,0 +1,152 @@
+*{
+    font-family: "Overpass", sans-serif;
+}
+
+body{
+    background-color: hsl(216, 12%, 8%);;
+}
+
+.card{
+    background-color: hsl(213, 19%, 18%);
+    color: white;
+    width: 400px;
+    border-radius: 35px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+img{
+    margin: 15px;
+    margin-left: 30px;
+    margin-top: 25px;
+    background-color: hsl(212, 15%, 17%);
+    padding: 15px;
+    border-radius: 50%;
+    
+}
+
+h1{
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+p{
+    margin-left: 30px;
+    font-weight: 300;
+    color: hsl(217, 12%, 63%);
+    font-size: 15px;
+}
+
+.rate{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 350px;
+    margin-left: 25px;
+    margin-top: 20px;    
+}
+
+
+
+.first{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: hsl(212, 15%, 17%);
+    border: none;
+    font-family: "Overpass", sans-serif;
+    color: hsl(217, 7%, 37%);
+    font-weight: 700;
+}
+
+.first:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: black;
+    font-weight: 700;
+}
+
+.secent{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: hsl(212, 15%, 17%);
+    border: none;
+    font-family: "Overpass", sans-serif;
+    color: hsl(217, 7%, 37%);
+    font-weight: 700;
+}
+
+.secent:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: black;
+    font-weight: 700;
+}
+
+.third{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: hsl(212, 15%, 17%);
+    border: none;
+    font-family: "Overpass", sans-serif;
+    color: hsl(217, 7%, 37%);
+    font-weight: 700;
+}
+
+.third:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: black;
+    font-weight: 700;
+}
+
+.forth{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: hsl(212, 15%, 17%);
+    border: none;
+    font-family: "Overpass", sans-serif;
+    color: hsl(217, 7%, 37%);
+    font-weight: 700;
+}
+
+
+.forth:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: black;
+    font-weight: 700;
+}
+
+.fifth{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: hsl(212, 15%, 17%);
+    border: none;
+    font-family: "Overpass", sans-serif;
+    color: hsl(217, 7%, 37%);
+    font-weight: 700;
+}
+
+.fifth:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: black;
+    font-weight: 700;
+}
+
+.submit{
+    margin: 30px;
+    margin-top: 30px;
+    width: 340px;
+    padding: 14px;
+    border-radius: 25px;
+    border: none;
+    font-weight: 1000;
+    background-color: white;
+    letter-spacing: 2px;
+
+}
+
+
+
